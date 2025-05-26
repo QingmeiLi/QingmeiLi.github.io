@@ -12,7 +12,7 @@ My research interests include spatial analysis, artificial intelligence, and hyp
 
 Work experience
 ======
-* 2015.9-2017.9 
+* 2015.9-2017.9, Soldier in People's Liberation Army, Jiuquan, China
 
 
 A data-driven personal website
