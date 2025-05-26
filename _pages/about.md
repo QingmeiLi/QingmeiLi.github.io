@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I am currently a Post-doc Researcher at High Performance Geo-Computing (HPGC) Group, at Shenzhen International Graduate School, Tsinghua University, working with Prof. Haohuan Fu. I received my Ph.D. (2020-2025) from College of Engineering, Peking Univeristy, advised by Prof. Chengqi Cheng, and the Bachelor degree (2014-2020) from College of Surveying and Geographic Informatics, Tongji University, advised by Prof. Yongjiu Feng.
-
+My research interests include spatial analysis, artificial intelligence, and hyperspectral remote sensing, etc. 
 
 A data-driven personal website
 ======
