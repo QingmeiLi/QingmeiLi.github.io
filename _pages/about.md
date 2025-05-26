@@ -10,6 +10,11 @@ redirect_from:
 I am currently a Post-doc Researcher at High Performance Geo-Computing (HPGC) Group, at Shenzhen International Graduate School, Tsinghua University, working with Prof. Haohuan Fu. I received my Ph.D. (2020-2025) from College of Engineering, Peking Univeristy, advised by Prof. Chengqi Cheng, and the Bachelor degree (2014-2020) from College of Surveying and Geographic Informatics, Tongji University, advised by Prof. Yongjiu Feng.
 My research interests include spatial analysis, artificial intelligence, and hyperspectral remote sensing, etc. 
 
+Work experience
+======
+* 2015.9-2017.9 
+
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
