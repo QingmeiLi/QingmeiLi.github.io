@@ -18,10 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # About me 
 
-I am currently a Post-doc Researcher at High Performance Geo-Computing (HPGC) Group, at Shenzhen International Graduate School, Tsinghua University, working with <strong>[Prof. Haohuan Fu](https://www.thuhpgc.net/mediawiki/index.php/Haohuan_Fu)</strong>. I received my Ph.D. (2020-2025) from College of Engineering, Peking Univeristy, advised by <strong>[Prof. Chengqi Cheng](https://www.coe.pku.edu.cn/teaching/all_time/7159.html)</strong>, and the Bachelor degree (2014-2020) from College of Surveying and Geographic Informatics, Tongji University, advised by <strong>[Prof. Yongjiu Feng](https://celiang.tongji.edu.cn/info/1300/2386.htm)</strong>. My research interests include spatial analysis, artificial intelligence, and hyperspectral remote sensing, etc.
+I am currently a Post-doc Researcher at High Performance Geo-Computing (HPGC) Group, at Shenzhen International Graduate School, Tsinghua University, working with <strong>[Prof. Haohuan Fu](https://www.thuhpgc.net/mediawiki/index.php/Haohuan_Fu)</strong>. I received my Ph.D. (2020-2025) from College of Engineering, Peking Univeristy, advised by <strong>[Prof. Chengqi Cheng](https://www.coe.pku.edu.cn/teaching/all_time/7159.html)</strong>, and the Bachelor degree (2014-2020) from College of Surveying and Geographic Informatics, Tongji University, advised by <strong>[Prof. Yongjiu Feng](https://celiang.tongji.edu.cn/info/1300/2386.htm)</strong>. 
 
-
-
+My research focuses on intelligent interpretation of remote sensing and urban environment modeling. I am currently interested in developing deep learning methods to enable **cost-effective, large-scale interpretation of hyperspectral remote sensing images in complex real-world scenarios.** I have also conducted research on spatial grid modeling, and urban environmental simulation and assessment.
 
 <!-- # 🔥 News -->
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
