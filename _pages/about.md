@@ -43,38 +43,37 @@ My research interests include spatial analysis, artificial intelligence, and hyp
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/TGRS2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='images/TGRS2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Boosting Universal Domain Adaptation in Remote Sensing with Dual-Classifiers Consistency Discrimination and Cross-Domain Feature Mixup](https://ieeexplore.ieee.org/abstract/document/11007683)
+[HyUniDA: Breaking label set constraints for universal domain adaptation in cross-scene hyperspectral image classification](https://ieeexplore.ieee.org/abstract/document/10530296/)
 
-**Qingmei Li**, Yang Zhang, Juepeng Zheng\*, Yuxiang Zhang, Jianxi Huang, Haohuan Fu
+**Qingmei Li**, Yibin Wen, Juepeng Zheng\*, Yuxiang Zhang, Haohuan Fu
 
-- *IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)*, 2025 (中科院一区TOP, CCF-B, IF=7.5)
+- *IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)*, 2024 (中科院一区TOP, CCF-B, IF=7.5)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/BAE2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BAE 2024</div><img src='images/BAE2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Boosting Universal Domain Adaptation in Remote Sensing with Dual-Classifiers Consistency Discrimination and Cross-Domain Feature Mixup](https://ieeexplore.ieee.org/abstract/document/11007683)
+[RAV model: Study on urban refined climate environment assessment and ventilation corridors construction](https://www.sciencedirect.com/science/article/abs/pii/S0360132323011071)
 
-**Qingmei Li**, Yang Zhang, Juepeng Zheng\*, Yuxiang Zhang, Jianxi Huang, Haohuan Fu
+**Qingmei Li**, Juepeng Zheng\*, Shuai Yuan, Lixian Zhang, Runmin Dong, Haohuan Fu
 
-- *IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)*, 2025 (中科院一区TOP, CCF-B, IF=7.5)
+- *Building and Environment (**BAE**)*, 2024 (中科院一区TOP, IF=7.1)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/SCS2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SCS 2022</div><img src='images/SCS2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Boosting Universal Domain Adaptation in Remote Sensing with Dual-Classifiers Consistency Discrimination and Cross-Domain Feature Mixup](https://ieeexplore.ieee.org/abstract/document/11007683)
+[Firefly algorithm-based cellular automata for reproducing urban growth and predicting future scenarios](https://www.sciencedirect.com/science/article/abs/pii/S2210670721007174)
 
-**Qingmei Li**, Yang Zhang, Juepeng Zheng\*, Yuxiang Zhang, Jianxi Huang, Haohuan Fu
-
-- *IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)*, 2025 (中科院一区TOP, CCF-B, IF=7.5)
+**Qingmei Li**, Yongjiu Feng\*, Xiaohua Tong, Yilun Zhou, Peiqi Wu, Huan Xie, Yanmin Jin\*, Peng Chen, Shijie Liu, Xiong Xv, Sicong Liu, Chao Wang
+- *Sustainable Cities and Society (**SCS**)*, 2022 (中科院一区TOP, IF=10.5)
 
 </div>
 </div>
@@ -82,8 +81,12 @@ My research interests include spatial analysis, artificial intelligence, and hyp
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.11* President's Scholarship, Peking University. 
+- *2022.12 \& 2024.12* National Scholarship for Graduate Student, Peking University.
+- *2020.07*, Shanghai Outstanding Graduates Award, Tongji University.
+- *2020.07*, Tongji University Pursuit of Excellence nomination Award.
+- *2018.12 \& 2019.12* National Scholarship for Undergraduate Student, Tongji University.
+- *2016.12 \& 2017.09* Outstanding Soldier Award. 
 
 # 📖 Educations
 - *2020.09 - 2025.06*, Ph.D., College of Engineering, Peking Univeristy, advised by <strong>Prof. Chengqi Cheng</strong>. 
