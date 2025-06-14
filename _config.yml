@@ -7,29 +7,29 @@
 
 # Site Settings
 title                    : "Qingmei Li"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+description              : " "
+repository               : "QingmeiLi/qingmei.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  "zJs7-SEAAAAJ" # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
+google_site_verification :  "https://scholar.google.com/citations?user=zJs7-SEAAAAJ&hl=zh-CN"# get google_site_verification from https://search.google.com/search-console/about
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  name             : "Qingmei Li \n (李庆美)"
+  avatar           : "images/qingmei.jpg"
+  bio              : "Post-doc"
+  location         : "Shenzhen, Guangdong"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=zJs7-SEAAAAJ"
+  email            : "HMg_Li@163.com"
+  researchgate     : "https://www.researchgate.net/profile/Qingmei-Li-2"
   uri              :
   bitbucket        :
   codepen          :
