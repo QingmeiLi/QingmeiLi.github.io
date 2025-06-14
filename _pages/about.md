@@ -72,21 +72,25 @@ My research interests include spatial analysis, artificial intelligence, and hyp
 
 [Firefly algorithm-based cellular automata for reproducing urban growth and predicting future scenarios](https://www.sciencedirect.com/science/article/abs/pii/S2210670721007174)
 
-**Qingmei Li**, Yongjiu Feng\*, Xiaohua Tong, Yilun Zhou, Peiqi Wu, Huan Xie, Yanmin Jin\*, Peng Chen, Shijie Liu, Xiong Xv, Sicong Liu, Chao Wang
+**Qingmei Li**, Yongjiu Feng\*, Xiaohua Tong, Yilun Zhou, Peiqi Wu, Huan Xie, Yanmin Jin\*, Peng Chen, Shijie Liu, Xiong Xu, Sicong Liu, Chao Wang
 - *Sustainable Cities and Society (**SCS**)*, 2022 (中科院一区TOP, IF=10.5)
 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **Qingmei Li**, Xin Chen, Xiaochong Tong, et al. An Information Fusion Model between GeoSOT Grid and Global Hexagonal Equal Area Grid[J]. ISPRS International Journal of Geo-Information, 2022, 11(4): 265.
+- Zhonggang Zheng, **Qingmei Li**\*, Kun Fu. Evaluation Model of Remote Sensing Satellites Cooperative Observation Capability[J]. Remote Sensing, 2021, 13(9):1717.
+- **Qingmei Li**, Yibin Wen, Juepeng Zheng, et al. Universal Domain Adaptation for Hyperspectral Image Classification[C]. 2024 IEEE International Geoscience and Remote Sensing Symposium IGARSS.
+- Yongjiu Feng, **Qingmei Li**, Xiaohua Tong, et al. Spatiotemporal spread pattern of the COVID-19 cases in China. PLoS One, 2020, 15(12), e0244351.
+- 冯永玖,**李庆美**,童小华,等.融合萤火虫算法和元胞自动机的城市扩张模拟预测方法[P]. 中国专利: CN112163367B. 2023-02-07.（已授权）
 
 # 🎖 Honors and Awards
 - *2024.11* President's Scholarship, Peking University. 
-- *2022.12 \& 2024.12* National Scholarship for Graduate Student, Peking University.
+- *2022.12 & 2024.12* National Scholarship for Graduate Student, Peking University.
 - *2020.07*, Shanghai Outstanding Graduates Award, Tongji University.
 - *2020.07*, Tongji University Pursuit of Excellence nomination Award.
-- *2018.12 \& 2019.12* National Scholarship for Undergraduate Student, Tongji University.
-- *2016.12 \& 2017.09* Outstanding Soldier Award. 
+- *2018.12 & 2019.12* National Scholarship for Undergraduate Student, Tongji University.
+- *2016.12 & 2017.09* Outstanding Soldier Award. 
 
 # 📖 Educations
 - *2020.09 - 2025.06*, Ph.D., College of Engineering, Peking Univeristy, advised by <strong>Prof. Chengqi Cheng</strong>. 
