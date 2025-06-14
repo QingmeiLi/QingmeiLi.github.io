@@ -29,16 +29,53 @@ My research interests include spatial analysis, artificial intelligence, and hyp
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📝 Publications 
+(\*Corresponding Author)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/TGRS2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Boosting Universal Domain Adaptation in Remote Sensing with Dual-Classifiers Consistency Discrimination and Cross-Domain Feature Mixup](https://ieeexplore.ieee.org/abstract/document/11007683)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Qingmei Li**, Yang Zhang, Juepeng Zheng\*, Yuxiang Zhang, Jianxi Huang, Haohuan Fu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)*, 2025 (中科院一区TOP, CCF-B, IF=7.5)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/TGRS2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Boosting Universal Domain Adaptation in Remote Sensing with Dual-Classifiers Consistency Discrimination and Cross-Domain Feature Mixup](https://ieeexplore.ieee.org/abstract/document/11007683)
+
+**Qingmei Li**, Yang Zhang, Juepeng Zheng\*, Yuxiang Zhang, Jianxi Huang, Haohuan Fu
+
+- *IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)*, 2025 (中科院一区TOP, CCF-B, IF=7.5)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/BAE2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Boosting Universal Domain Adaptation in Remote Sensing with Dual-Classifiers Consistency Discrimination and Cross-Domain Feature Mixup](https://ieeexplore.ieee.org/abstract/document/11007683)
+
+**Qingmei Li**, Yang Zhang, Juepeng Zheng\*, Yuxiang Zhang, Jianxi Huang, Haohuan Fu
+
+- *IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)*, 2025 (中科院一区TOP, CCF-B, IF=7.5)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/SCS2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Boosting Universal Domain Adaptation in Remote Sensing with Dual-Classifiers Consistency Discrimination and Cross-Domain Feature Mixup](https://ieeexplore.ieee.org/abstract/document/11007683)
+
+**Qingmei Li**, Yang Zhang, Juepeng Zheng\*, Yuxiang Zhang, Jianxi Huang, Haohuan Fu
+
+- *IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)*, 2025 (中科院一区TOP, CCF-B, IF=7.5)
+
 </div>
 </div>
 
