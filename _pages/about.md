@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Post-doc Researcher at High Performance Geo-Computing (HPGC) Group, at Shenzhen International Graduate School, Tsinghua University, working with <strong>Prof. Haohuan Fu</strong>. I received my Ph.D. (2020-2025) from College of Engineering, Peking Univeristy, advised by <strong>Prof. Chengqi Cheng</strong>, and the Bachelor degree (2014-2020) from College of Surveying and Geographic Informatics, Tongji University, advised by <strong>Prof. Yongjiu Feng</strong>. 
+I am currently a Post-doc Researcher at High Performance Geo-Computing (HPGC) Group, at Shenzhen International Graduate School, Tsinghua University, working with <strong>Prof. Haohuan Fu</strong>. I received my Ph.D. (2020-2025) from College of Engineering, Peking Univeristy, advised by <strong>Prof. Chengqi Cheng</strong>, and the Bachelor degree (2014-2020) from College of Surveying and Geographic Informatics, Tongji University, advised by <strong>[Prof. Yongjiu Feng](https://celiang.tongji.edu.cn/info/1300/2386.htm)</strong>. 
 
 My research interests include spatial analysis, artificial intelligence, and hyperspectral remote sensing, etc.
 
@@ -81,7 +81,7 @@ My research interests include spatial analysis, artificial intelligence, and hyp
 - **Qingmei Li**, Xin Chen, Xiaochong Tong, et al. An Information Fusion Model between GeoSOT Grid and Global Hexagonal Equal Area Grid[J]. ISPRS International Journal of Geo-Information, 2022, 11(4): 265.
 - Zhonggang Zheng, **Qingmei Li**\*, Kun Fu. Evaluation Model of Remote Sensing Satellites Cooperative Observation Capability[J]. Remote Sensing, 2021, 13(9):1717.
 - **Qingmei Li**, Yibin Wen, Juepeng Zheng, et al. Universal Domain Adaptation for Hyperspectral Image Classification[C]. 2024 IEEE International Geoscience and Remote Sensing Symposium IGARSS.
-- Yongjiu Feng, **Qingmei Li**, Xiaohua Tong, et al. Spatiotemporal spread pattern of the COVID-19 cases in China. PLoS One, 2020, 15(12), e0244351.
+- Yongjiu Feng\*, **Qingmei Li**, Xiaohua Tong\*, et al. Spatiotemporal spread pattern of the COVID-19 cases in China. PLoS One, 2020, 15(12), e0244351.
 - 冯永玖,**李庆美**,童小华,等.融合萤火虫算法和元胞自动机的城市扩张模拟预测方法[P]. 中国专利: CN112163367B. 2023-02-07.（已授权）
 
 # 🎖 Honors and Awards
