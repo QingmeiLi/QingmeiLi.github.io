@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Qingmei Li \n (李庆美)"
   avatar           : "images/qingmei.jpg"
-  bio              : "Post-doc Researcher, Tsinghua University"
+  bio              : "Post-doc Researcher"
   location         : "Shenzhen, Guangdong"
-  employer         :
+  employer         : "Tsinghua University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=zJs7-SEAAAAJ"
   email            : "HMg_Li@163.com"
