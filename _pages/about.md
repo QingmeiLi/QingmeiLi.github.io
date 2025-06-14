@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Post-doc Researcher at High Performance Geo-Computing (HPGC) Group, at Shenzhen International Graduate School, Tsinghua University, working with <strong>Prof. Haohuan Fu</strong>. I received my Ph.D. (2020-2025) from College of Engineering, Peking Univeristy, advised by <strong>Prof. Chengqi Cheng</strong>, and the Bachelor degree (2014-2020) from College of Surveying and Geographic Informatics, Tongji University, advised by <strong>[Prof. Yongjiu Feng](https://celiang.tongji.edu.cn/info/1300/2386.htm)</strong>. 
+I am currently a Post-doc Researcher at High Performance Geo-Computing (HPGC) Group, at Shenzhen International Graduate School, Tsinghua University, working with <strong>[Prof. Haohuan Fu](https://www.thuhpgc.net/mediawiki/index.php/Haohuan_Fu)</strong>. I received my Ph.D. (2020-2025) from College of Engineering, Peking Univeristy, advised by <strong>[Prof. Chengqi Cheng](https://www.coe.pku.edu.cn/teaching/all_time/7159.html)</strong>, and the Bachelor degree (2014-2020) from College of Surveying and Geographic Informatics, Tongji University, advised by <strong>[Prof. Yongjiu Feng](https://celiang.tongji.edu.cn/info/1300/2386.htm)</strong>. 
 
 My research interests include spatial analysis, artificial intelligence, and hyperspectral remote sensing, etc.
 
@@ -36,7 +36,7 @@ My research interests include spatial analysis, artificial intelligence, and hyp
 
 [Boosting Universal Domain Adaptation in Remote Sensing with Dual-Classifiers Consistency Discrimination and Cross-Domain Feature Mixup](https://ieeexplore.ieee.org/abstract/document/11007683)
 
-**Qingmei Li**, Yang Zhang, Juepeng Zheng\*, Yuxiang Zhang, Jianxi Huang, Haohuan Fu
+**Qingmei Li**, Yang Zhang, [Juepeng Zheng](https://rssysu.github.io/assets/resume/zjp.html)\*, Yuxiang Zhang, Jianxi Huang, Haohuan Fu
 
 - *IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)*, 2025 (中科院一区TOP, CCF-B, IF=7.5)
 
@@ -72,7 +72,7 @@ My research interests include spatial analysis, artificial intelligence, and hyp
 
 [Firefly algorithm-based cellular automata for reproducing urban growth and predicting future scenarios](https://www.sciencedirect.com/science/article/abs/pii/S2210670721007174)
 
-**Qingmei Li**, Yongjiu Feng\*, Xiaohua Tong, Yilun Zhou, Peiqi Wu, Huan Xie, Yanmin Jin\*, Peng Chen, Shijie Liu, Xiong Xu, Sicong Liu, Chao Wang
+**Qingmei Li**, Yongjiu Feng\*, [Xiaohua Tong](https://celiang.tongji.edu.cn/info/1300/2397.htm), Yilun Zhou, Peiqi Wu, [Huan Xie](https://celiang.tongji.edu.cn/info/1300/2401.htm), Yanmin Jin\*, Peng Chen, Shijie Liu, Xiong Xu, Sicong Liu, Chao Wang
 - *Sustainable Cities and Society (**SCS**)*, 2022 (中科院一区TOP, IF=10.5)
 
 </div>
@@ -81,8 +81,8 @@ My research interests include spatial analysis, artificial intelligence, and hyp
 - **Qingmei Li**, Xin Chen, Xiaochong Tong, et al. An Information Fusion Model between GeoSOT Grid and Global Hexagonal Equal Area Grid[J]. ISPRS International Journal of Geo-Information, 2022, 11(4): 265.
 - Zhonggang Zheng, **Qingmei Li**\*, Kun Fu. Evaluation Model of Remote Sensing Satellites Cooperative Observation Capability[J]. Remote Sensing, 2021, 13(9):1717.
 - **Qingmei Li**, Yibin Wen, Juepeng Zheng, et al. Universal Domain Adaptation for Hyperspectral Image Classification[C]. 2024 IEEE International Geoscience and Remote Sensing Symposium IGARSS.
-- Yongjiu Feng\*, **Qingmei Li**, Xiaohua Tong\*, et al. Spatiotemporal spread pattern of the COVID-19 cases in China. PLoS One, 2020, 15(12), e0244351.
-- 冯永玖,**李庆美**,童小华,等.融合萤火虫算法和元胞自动机的城市扩张模拟预测方法[P]. 中国专利: CN112163367B. 2023-02-07.（已授权）
+- Yongjiu Feng\*, **Qingmei Li**, [Xiaohua Tong](https://celiang.tongji.edu.cn/info/1300/2397.htm)\*, et al. Spatiotemporal spread pattern of the COVID-19 cases in China. PLoS One, 2020, 15(12), e0244351.
+- [冯永玖](https://celiang.tongji.edu.cn/info/1300/2386.htm),**李庆美**,[童小华](https://celiang.tongji.edu.cn/info/1300/2397.htm),等.融合萤火虫算法和元胞自动机的城市扩张模拟预测方法[P]. 中国专利: CN112163367B. 2023-02-07.（已授权）
 
 # 🎖 Honors and Awards
 - *2024.11* President's Scholarship, Peking University. 
@@ -93,8 +93,8 @@ My research interests include spatial analysis, artificial intelligence, and hyp
 - *2016.12 & 2017.09* Outstanding Soldier Award. 
 
 # 📖 Educations
-- *2020.09 - 2025.06*, Ph.D., College of Engineering, Peking Univeristy, advised by <strong>Prof. Chengqi Cheng</strong>. 
-- *2014.09 - 2020.07*, B.E., College of Surveying and Geographic Informatics, Tongji University, advised by <strong>Prof. Yongjiu Feng</strong>. 
+- *2020.09 - 2025.06*, Ph.D., College of Engineering, Peking Univeristy, advised by <strong>[Prof. Chengqi Cheng](https://www.coe.pku.edu.cn/teaching/all_time/7159.html)</strong>. 
+- *2014.09 - 2020.07*, B.E., College of Surveying and Geographic Informatics, Tongji University, advised by <strong>[Prof. Yongjiu Feng](https://celiang.tongji.edu.cn/info/1300/2386.htm)</strong>. 
 
 <!-- # 💬 Invited Talks -->
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
