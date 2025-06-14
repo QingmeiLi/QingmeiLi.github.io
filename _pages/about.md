@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Post-doc Researcher at High Performance Geo-Computing (HPGC) Group, at Shenzhen International Graduate School, Tsinghua University, working with Prof. Haohuan Fu. I received my Ph.D. (2020-2025) from College of Engineering, Peking Univeristy, advised by Prof. Chengqi Cheng, and the Bachelor degree (2014-2020) from College of Surveying and Geographic Informatics, Tongji University, advised by <strong>Prof. Yongjiu Feng</strong>. 
+I am currently a Post-doc Researcher at High Performance Geo-Computing (HPGC) Group, at Shenzhen International Graduate School, Tsinghua University, working with <strong>Prof. Haohuan Fu</strong>. I received my Ph.D. (2020-2025) from College of Engineering, Peking Univeristy, advised by <strong>Prof. Chengqi Cheng</strong>, and the Bachelor degree (2014-2020) from College of Surveying and Geographic Informatics, Tongji University, advised by <strong>Prof. Yongjiu Feng</strong>. 
 
 My research interests include spatial analysis, artificial intelligence, and hyperspectral remote sensing, etc.
 
@@ -49,12 +49,12 @@ My research interests include spatial analysis, artificial intelligence, and hyp
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.09 - 2025.06*, Ph.D., College of Engineering, Peking Univeristy, advised by <strong>Prof. Chengqi Cheng</strong>. 
+- *2014.09 - 2020.07*, B.E., College of Surveying and Geographic Informatics, Tongji University, advised by <strong>Prof. Yongjiu Feng</strong>. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+<!-- # 💬 Invited Talks -->
+<!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+<!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Work Experience
+- *2015.09 - 2017.09*, People's Liberation Army of China, Jiuquan, Compulsory service.
