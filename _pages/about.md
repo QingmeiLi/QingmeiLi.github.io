@@ -86,7 +86,7 @@ My research focuses on intelligent interpretation of remote sensing and urban en
 - *2024.11*, President's Scholarship, Peking University. 
 - *2022.12 and 2024.12*, National Scholarship for Graduate Student, Peking University.
 - *2020.07*, Shanghai Outstanding Graduates Award, Tongji University.
-- *2020.07*, Pursuit of Excellence nomination Award, Tongji University.
+- *2020.07*, Pursuit of Excellence Nomination Award, Tongji University.
 - *2018.12 and 2019.12*, National Scholarship for Undergraduate Student, Tongji University.
 - *2016.12 and 2017.09*, Outstanding Soldier Award. 
 
