@@ -83,12 +83,12 @@ My research focuses on intelligent interpretation of remote sensing and urban en
 - [冯永玖](https://celiang.tongji.edu.cn/info/1300/2386.htm),**李庆美**,[童小华](https://celiang.tongji.edu.cn/info/1300/2397.htm),等.融合萤火虫算法和元胞自动机的城市扩张模拟预测方法[P]. 中国专利: CN112163367B. 2023-02-07.（已授权）
 
 # 🎖 Honors and Awards
-- *2024.11* President's Scholarship, Peking University. 
-- *2022.12 and 2024.12* National Scholarship for Graduate Student, Peking University.
+- *2024.11*, President's Scholarship, Peking University. 
+- *2022.12 and 2024.12*, National Scholarship for Graduate Student, Peking University.
 - *2020.07*, Shanghai Outstanding Graduates Award, Tongji University.
-- *2020.07*, Tongji University Pursuit of Excellence nomination Award.
-- *2018.12 and 2019.12* National Scholarship for Undergraduate Student, Tongji University.
-- *2016.12 and 2017.09* Outstanding Soldier Award. 
+- *2020.07*, Pursuit of Excellence nomination Award, Tongji University.
+- *2018.12 and 2019.12*, National Scholarship for Undergraduate Student, Tongji University.
+- *2016.12 and 2017.09*, Outstanding Soldier Award. 
 
 # 📖 Educations
 - *2020.09 - 2025.06*, Ph.D., College of Engineering, Peking Univeristy, advised by <strong>[Prof. Chengqi Cheng](https://www.coe.pku.edu.cn/teaching/all_time/7159.html)</strong>. 
