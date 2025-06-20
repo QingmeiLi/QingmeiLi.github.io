@@ -36,7 +36,7 @@ My research focuses on intelligent interpretation of remote sensing and urban en
 
 **Qingmei Li**, Yang Zhang, [Juepeng Zheng](https://rssysu.github.io/assets/resume/zjp.html)\*, Yuxiang Zhang, Jianxi Huang, Haohuan Fu
 
-- *IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)*, 2025 (中科院一区TOP, CCF-B, IF=7.5)
+- *IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)*, 2025 (中科院一区TOP, CCF-B, IF=8.6)
 
 </div>
 </div>
@@ -48,7 +48,7 @@ My research focuses on intelligent interpretation of remote sensing and urban en
 
 **Qingmei Li**, Yibin Wen, Juepeng Zheng\*, Yuxiang Zhang, Haohuan Fu
 
-- *IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)*, 2024 (中科院一区TOP, CCF-B, IF=7.5)
+- *IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)*, 2024 (中科院一区TOP, CCF-B, IF=8.6)
 
 </div>
 </div>
@@ -60,7 +60,7 @@ My research focuses on intelligent interpretation of remote sensing and urban en
 
 **Qingmei Li**, Juepeng Zheng\*, Shuai Yuan, Lixian Zhang, Runmin Dong, Haohuan Fu
 
-- *Building and Environment (**BAE**)*, 2024 (中科院一区TOP, IF=7.1)
+- *Building and Environment (**BAE**)*, 2024 (中科院一区TOP, IF=7.6)
 
 </div>
 </div>
@@ -71,7 +71,7 @@ My research focuses on intelligent interpretation of remote sensing and urban en
 [Firefly algorithm-based cellular automata for reproducing urban growth and predicting future scenarios](https://www.sciencedirect.com/science/article/abs/pii/S2210670721007174)
 
 **Qingmei Li**, Yongjiu Feng\*, [Xiaohua Tong](https://celiang.tongji.edu.cn/info/1300/2397.htm), Yilun Zhou, Peiqi Wu, [Huan Xie](https://celiang.tongji.edu.cn/info/1300/2401.htm), Yanmin Jin\*, Peng Chen, Shijie Liu, Xiong Xu, Sicong Liu, Chao Wang
-- *Sustainable Cities and Society (**SCS**)*, 2022 (中科院一区TOP, IF=10.5)
+- *Sustainable Cities and Society (**SCS**)*, 2022 (中科院一区TOP, IF=12.0)
 
 </div>
 </div>
