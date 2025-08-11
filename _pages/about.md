@@ -34,7 +34,7 @@ My research focuses on intelligent interpretation of remote sensing and urban en
 
 [Boosting Universal Domain Adaptation in Remote Sensing with Dual-Classifiers Consistency Discrimination and Cross-Domain Feature Mixup](https://ieeexplore.ieee.org/abstract/document/11007683)
 
-**Qingmei Li**, Yang Zhang, [Juepeng Zheng](https://rssysu.github.io/assets/resume/zjp.html)\*, Yuxiang Zhang, Jianxi Huang, Haohuan Fu
+**Qingmei Li**, Yang Zhang, [Juepeng Zheng](https://rssysu.github.io/assets/resume/zjp.html)\*, Yuxiang Zhang, [Jianxi Huang](https://scholar.google.com/citations?user=ux6rwsEAAAAJ&hl=zh-CN), Haohuan Fu
 
 - *IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)*, 2025 (中科院一区TOP, CCF-B, IF=8.6)
 
@@ -80,7 +80,7 @@ My research focuses on intelligent interpretation of remote sensing and urban en
 - Zhonggang Zheng, **Qingmei Li**\*, Kun Fu. Evaluation Model of Remote Sensing Satellites Cooperative Observation Capability[J]. Remote Sensing, 2021, 13(9):1717.
 - **Qingmei Li**, Yibin Wen, Juepeng Zheng, et al. Universal Domain Adaptation for Hyperspectral Image Classification[C]. 2024 IEEE International Geoscience and Remote Sensing Symposium IGARSS.
 - Yongjiu Feng\*, **Qingmei Li**, Xiaohua Tong\*, et al. Spatiotemporal spread pattern of the COVID-19 cases in China. PLoS One, 2020, 15(12), e0244351.
-- [冯永玖](https://celiang.tongji.edu.cn/info/1300/2386.htm),**李庆美**,[童小华](https://celiang.tongji.edu.cn/info/1300/2397.htm),等.融合萤火虫算法和元胞自动机的城市扩张模拟预测方法[P]. 中国专利: CN112163367B. 2023-02-07.（已授权）
+- [冯永玖](https://celiang.tongji.edu.cn/info/1300/2386.htm),**李庆美**,[童小华](https://celiang.tongji.edu.cn/info/1300/2397.htm),等.融合萤火虫算法和元胞自动机的城市扩张模拟预测方法[P]. 中国专利: CN112163367B. 2023-02-07.
 
 # 🎖 Honors and Awards
 - *2024.11*, President's Scholarship, Peking University. 
