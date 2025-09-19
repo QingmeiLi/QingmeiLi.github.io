@@ -27,7 +27,19 @@ My research focuses on intelligent interpretation of remote sensing and urban en
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📝 Publications 
-(\*Corresponding Author)
+(\*Corresponding Author \#Equal contribution)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/NIPS2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Can Large Multimodal Models Understand Agricultural Scenes? Benchmarking with AgroMind](https://arxiv.org/pdf/2505.12207)
+
+**Qingmei Li**\#, Yang Zhang\#, Zurong Mai\#, Yuhang Chen, Shuohong Lou, Henglian Huang, Jiarui Zhang, Zhiwei Zhang, Yibin Wen, Weijia Li, Haohuan Fu, [Jianxi Huang](https://scholar.google.com/citations?user=ux6rwsEAAAAJ&hl=zh-CN), [Juepeng Zheng](https://rssysu.github.io/assets/resume/zjp.html)\*
+
+- *The Thirty-Ninth Annual Conference on Neural Information Processing Systems (**NeurIPS**)*, 2025 (CCF-A)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/TGRS2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
