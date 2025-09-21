@@ -27,7 +27,7 @@ My research focuses on intelligent interpretation of remote sensing and urban en
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📝 Publications 
-(\*Corresponding Author \#Equal contribution)
+(\*Corresponding Author, \#Equal contribution)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/NIPS2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
