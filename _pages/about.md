@@ -88,7 +88,7 @@ My research focuses on intelligent interpretation of remote sensing and urban en
 </div>
 </div>
 
-- **Qingmei Li**, Peifeng Zhang, Juepeng Zheng. Cross-scene Hyperspectral Image Classification via Topology-Aware Learning without Source Data[C]. 2026 IEEE International Conference on Acoustics, Speech, and Signal Processing.(CCF-B, Acceptance rate: ~40%)
+- **Qingmei Li**, Peifeng Zhang, Juepeng Zheng. Cross-scene Hyperspectral Image Classification via Topology-Aware Learning without Source Data[C]. 2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**).(CCF-B, Acceptance rate: ~40%)
 - **Qingmei Li**, Xin Chen, Xiaochong Tong, et al. An Information Fusion Model between GeoSOT Grid and Global Hexagonal Equal Area Grid[J]. ISPRS International Journal of Geo-Information, 2022, 11(4): 265.
 - Zhonggang Zheng, **Qingmei Li**\*, Kun Fu. Evaluation Model of Remote Sensing Satellites Cooperative Observation Capability[J]. Remote Sensing, 2021, 13(9):1717.
 - **Qingmei Li**, Yibin Wen, Juepeng Zheng, et al. Universal Domain Adaptation for Hyperspectral Image Classification[C]. 2024 IEEE International Geoscience and Remote Sensing Symposium IGARSS.
