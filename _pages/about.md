@@ -36,7 +36,7 @@ My research focuses on intelligent interpretation of remote sensing and urban en
 
 **Qingmei Li**, Yang Zhang, Peifeng Zhang, Haohuan Fu, [Juepeng Zheng](https://rssysu.github.io/assets/resume/zjp.html)\*
 
-- *The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026 (**CVPR**)*, 2026 (CCF-A, Acceptance rate: 25.42%)
+- *The IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)*, 2026 (CCF-A, Acceptance rate: 25.42%)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS D&B 2025</div><img src='images/NIPS2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
