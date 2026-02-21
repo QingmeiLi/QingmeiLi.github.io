@@ -43,7 +43,7 @@ My research focuses on intelligent interpretation of remote sensing and urban en
 
 [Can Large Multimodal Models Understand Agricultural Scenes? Benchmarking with AgroMind](https://arxiv.org/pdf/2505.12207)
 
-**Qingmei Li**\#, Yang Zhang\#, Zurong Mai\#, Yuhang Chen, Shuohong Lou, Henglian Huang, Jiarui Zhang, Zhiwei Zhang, Yibin Wen, Weijia Li, Haohuan Fu, [Jianxi Huang](https://scholar.google.com/citations?user=ux6rwsEAAAAJ&hl=zh-CN), [Juepeng Zheng](https://rssysu.github.io/assets/resume/zjp.html)\*
+**Qingmei Li**\#, Yang Zhang\#, Zurong Mai\#, Yuhang Chen, Shuohong Lou, Henglian Huang, Jiarui Zhang, Zhiwei Zhang, Yibin Wen, Weijia Li, Haohuan Fu, [Jianxi Huang](https://scholar.google.com/citations?user=ux6rwsEAAAAJ&hl=zh-CN), Juepeng Zheng\*
 
 - *The Thirty-Ninth Annual Conference on Neural Information Processing Systems (**NeurIPS D&B**)*, 2025 (CCF-A, Acceptance rate: 24.91%)
 
