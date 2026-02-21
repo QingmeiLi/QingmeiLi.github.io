@@ -22,12 +22,21 @@ I am currently a Post-doc Researcher at High Performance Geo-Computing Group (HP
 
 My research focuses on intelligent interpretation of remote sensing and urban environment modeling. I am currently interested in developing deep learning methods to enable **cost-effective, large-scale interpretation of hyperspectral remote sensing images in complex real-world scenarios.** I have also conducted research on spatial grid modeling, and urban environmental simulation and assessment.
 
-<!-- # 🔥 News -->
-<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
-<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+# 🔥 News
+- *2026.02*: 🎉🎉 One paper accepted by CVPR 2026!
+- *2026.02*: 🎉🎉 One paper accepted by IEEE GRSM!
 
 # 📝 Publications 
 (\*Corresponding Author, \#Equal contribution)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/CVPR2026.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SAGE: Style-Adaptive Generalization for Privacy-Constrained Semantic Segmentation Across Domains](https://arxiv.org/pdf/2512.02369)
+
+**Qingmei Li**, Yang Zhang, Peifeng Zhang, Haohuan Fu, [Juepeng Zheng](https://rssysu.github.io/assets/resume/zjp.html)\*
+
+- *The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026 (**CVPR**)*, 2026 (CCF-A, Acceptance rate: 25.42%)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS D&B 2025</div><img src='images/NIPS2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -65,7 +74,7 @@ My research focuses on intelligent interpretation of remote sensing and urban en
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BAE 2024</div><img src='images/BAE2024.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BAE 2024</div><img src='images/BAE2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RAV model: Study on urban refined climate environment assessment and ventilation corridors construction](https://www.sciencedirect.com/science/article/abs/pii/S0360132323011071)
@@ -75,9 +84,9 @@ My research focuses on intelligent interpretation of remote sensing and urban en
 - *Building and Environment (**BAE**)*, 2024 (中科院一区TOP, IF=7.6)
 
 </div>
-</div>
+</div> -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SCS 2022</div><img src='images/SCS2022.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SCS 2022</div><img src='images/SCS2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Firefly algorithm-based cellular automata for reproducing urban growth and predicting future scenarios](https://www.sciencedirect.com/science/article/abs/pii/S2210670721007174)
@@ -86,8 +95,11 @@ My research focuses on intelligent interpretation of remote sensing and urban en
 - *Sustainable Cities and Society (**SCS**)*, 2022 (中科院一区TOP, IF=12.0)
 
 </div>
-</div>
+</div> -->
 
+- Juepeng Zheng, Zi Ye, Yibin Wen, Jianxi Huang\*, Zhiwei Zhang, **Qingmei Li**\*, Qiong Hu, Baodong Xu, Lingyuan Zhao, Haohuan Fu. [A comprehensive review of agricultural parcel and boundary delineation from remote sensing images: Recent progress and future perspectives](https://ieeexplore.ieee.org/abstract/document/11396383) [J]. IEEE Geoscience and Remote Sensing Magazine, 2026. (中科院一区TOP, IF=7.6)
+- **Qingmei Li**, Juepeng Zheng\*, Shuai Yuan, Lixian Zhang, Runmin Dong, Haohuan Fu. [RAV model: Study on urban refined climate environment assessment and ventilation corridors construction](https://www.sciencedirect.com/science/article/abs/pii/S0360132323011071) [J]. *Building and Environment (**BAE**)*, 2024 (中科院一区TOP, IF=7.6)
+- **Qingmei Li**, Yongjiu Feng\*, [Xiaohua Tong](https://celiang.tongji.edu.cn/info/1300/2397.htm), Yilun Zhou, Peiqi Wu, [Huan Xie](https://celiang.tongji.edu.cn/info/1300/2401.htm), Yanmin Jin\*, Peng Chen, Shijie Liu, Xiong Xu, Sicong Liu, Chao Wang. [Firefly algorithm-based cellular automata for reproducing urban growth and predicting future scenarios](https://www.sciencedirect.com/science/article/abs/pii/S2210670721007174)[J]. *Sustainable Cities and Society (**SCS**)*, 2022 (中科院一区TOP, IF=12.0)
 - **Qingmei Li**, Peifeng Zhang, Juepeng Zheng. Cross-scene Hyperspectral Image Classification via Topology-Aware Learning without Source Data[C]. 2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**).(CCF-B, Acceptance rate: ~40%)
 - **Qingmei Li**, Xin Chen, Xiaochong Tong, et al. An Information Fusion Model between GeoSOT Grid and Global Hexagonal Equal Area Grid[J]. ISPRS International Journal of Geo-Information, 2022, 11(4): 265.
 - Zhonggang Zheng, **Qingmei Li**\*, Kun Fu. Evaluation Model of Remote Sensing Satellites Cooperative Observation Capability[J]. Remote Sensing, 2021, 13(9):1717.
