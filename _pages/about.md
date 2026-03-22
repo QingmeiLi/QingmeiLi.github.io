@@ -127,4 +127,5 @@ My research focuses on intelligent interpretation of remote sensing and urban en
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Work Experience
+- *2025.07 - Now*, Tsinghua Shenzhen International Graduate School, Shenzhen, Post-doc.
 - *2015.09 - 2017.09*, People's Liberation Army of China, Jiuquan, Compulsory service.
