@@ -23,6 +23,7 @@ I am currently a Post-doc Researcher at High Performance Geo-Computing Group (HP
 My research focuses on intelligent interpretation of remote sensing and urban environment modeling. I am currently interested in developing deep learning methods to enable **cost-effective, large-scale interpretation of hyperspectral remote sensing images in complex real-world scenarios.** I have also conducted research on spatial grid modeling, and urban environmental simulation and assessment.
 
 # 🔥 News
+- *2026.06*: 🎉🎉 One paper accepted by PR!
 - *2026.02*: 🎉🎉 One paper accepted by CVPR 2026!
 - *2026.02*: 🎉🎉 One paper accepted by IEEE GRSM!
 
@@ -100,6 +101,7 @@ My research focuses on intelligent interpretation of remote sensing and urban en
 </div>
 </div> -->
 
+- Juepeng Zheng, Yibin Wen, Peifeng Zhang, **Qingmei Li**\*, Yang Zhang, Haohuan Fu. [GALA: A GlobAl-LocAl cluster approach for Multi-Source Active Domain Adaptation](https://www.sciencedirect.com/science/article/pii/S0031320326012641) [J]. IEEE Geoscience and Remote Sensing Magazine, 2026. (中科院一区TOP, IF=16.4)
 - Juepeng Zheng, Zi Ye, Yibin Wen, Jianxi Huang\*, Zhiwei Zhang, **Qingmei Li**\*, Qiong Hu, Baodong Xu, Lingyuan Zhao, Haohuan Fu. [A comprehensive review of agricultural parcel and boundary delineation from remote sensing images: Recent progress and future perspectives](https://ieeexplore.ieee.org/abstract/document/11396383) [J]. IEEE Geoscience and Remote Sensing Magazine, 2026. (中科院一区TOP, IF=16.4)
 - **Qingmei Li**, Juepeng Zheng\*, Shuai Yuan, Lixian Zhang, Runmin Dong, Haohuan Fu. [RAV model: Study on urban refined climate environment assessment and ventilation corridors construction](https://www.sciencedirect.com/science/article/abs/pii/S0360132323011071) [J]. *Building and Environment (**BAE**)*, 2024 (中科院一区TOP, IF=7.6)
 - **Qingmei Li**, Yongjiu Feng\*, [Xiaohua Tong](https://celiang.tongji.edu.cn/info/1300/2397.htm), Yilun Zhou, Peiqi Wu, [Huan Xie](https://celiang.tongji.edu.cn/info/1300/2401.htm), Yanmin Jin\*, Peng Chen, Shijie Liu, Xiong Xu, Sicong Liu, Chao Wang. [Firefly algorithm-based cellular automata for reproducing urban growth and predicting future scenarios](https://www.sciencedirect.com/science/article/abs/pii/S2210670721007174)[J]. *Sustainable Cities and Society (**SCS**)*, 2022 (中科院一区TOP, IF=12.0)
