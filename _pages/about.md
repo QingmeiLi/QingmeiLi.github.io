@@ -35,7 +35,7 @@ My research focuses on intelligent interpretation of remote sensing and urban en
 
 [SAGE: Style-Adaptive Generalization for Privacy-Constrained Semantic Segmentation Across Domains](https://arxiv.org/pdf/2512.02369)
 
-**Qingmei Li**, Yang Zhang, Peifeng Zhang, Haohuan Fu, [Juepeng Zheng](https://rssysu.github.io/assets/resume/zjp.html)\*
+**Qingmei Li**, Yang Zhang, Peifeng Zhang, Haohuan Fu\*, [Juepeng Zheng](https://rssysu.github.io/assets/resume/zjp.html)\*
 
 - *The IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)*, 2026 (CCF-A, Acceptance rate: 25.42%)
 
