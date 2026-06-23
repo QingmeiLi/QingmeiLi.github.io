@@ -33,7 +33,7 @@ My research focuses on intelligent interpretation of remote sensing and urban en
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/CVPR2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SAGE: Style-Adaptive Generalization for Privacy-Constrained Semantic Segmentation Across Domains](https://arxiv.org/pdf/2512.02369)
+[SAGE: Style-Adaptive Generalization for Privacy-Constrained Semantic Segmentation Across Domains](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_SAGE_Style-Adaptive_Generalization_for_Privacy-Constrained_Semantic_Segmentation_Across_Domains_CVPR_2026_paper.pdf)
 
 **Qingmei Li**, Yang Zhang, Peifeng Zhang, Haohuan Fu\*, [Juepeng Zheng](https://rssysu.github.io/assets/resume/zjp.html)\*
 
